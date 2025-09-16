@@ -48,4 +48,3 @@ class Solution(object):
             res.append(carry)
 
         return self.to_linkedlist(res)
-    
